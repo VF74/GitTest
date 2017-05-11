@@ -1,1 +1,2 @@
 this is a file, a very cool file.
+adding a new line.
