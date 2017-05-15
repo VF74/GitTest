@@ -5,3 +5,5 @@ From master
 new line from dev branch
 another new line from dev branch
 a 3rd line from dev branch
+a line from branch 2
+a second line from branch 2
